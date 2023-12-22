@@ -1,0 +1,12 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+
+h1, h2, h3 {
+    background-color: aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p, ol, ul {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
