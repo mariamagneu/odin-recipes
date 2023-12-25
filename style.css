@@ -1,0 +1,23 @@
+h1 {
+    background-color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+}
+li a[href="recipes/pao-de-queijo.html"] {
+    font-size: 40px;
+    background-color: aquamarine;
+}
+
+li a[href="recipes/nutella-bread.html"] {
+    font-size: 40px;
+    background-color: aquamarine;
+
+
+}
+
+li a[href="recipes/instant-ramen.html"] {
+    font-size: 40px;
+    background-color: aquamarine;
+
+
+}
